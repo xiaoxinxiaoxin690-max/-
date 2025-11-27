@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AutoSub AI - SRT Generator",
+  "description": "Automatically transcribe audio, translate between Chinese/English, and export as .srt subtitles using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
